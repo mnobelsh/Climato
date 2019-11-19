@@ -1,0 +1,21 @@
+version: "Apple Swift version 5.1.2 (swiftlang-1100.0.278 clang-1100.0.33.9)"
+options: "8152d4115a0384acbc96855ed23feebd"
+build_time: [1574148532, 786083000]
+inputs:
+  "/Users/mnobelsh/Desktop/Climato/Pods/Alamofire/Source/AFError.swift": [1545553018, 0]
+  "/Users/mnobelsh/Desktop/Climato/Pods/Alamofire/Source/Alamofire.swift": [1545553018, 0]
+  "/Users/mnobelsh/Desktop/Climato/Pods/Alamofire/Source/DispatchQueue+Alamofire.swift": [1545553018, 0]
+  "/Users/mnobelsh/Desktop/Climato/Pods/Alamofire/Source/MultipartFormData.swift": [1545553018, 0]
+  "/Users/mnobelsh/Desktop/Climato/Pods/Alamofire/Source/NetworkReachabilityManager.swift": [1545553018, 0]
+  "/Users/mnobelsh/Desktop/Climato/Pods/Alamofire/Source/Notifications.swift": [1545553018, 0]
+  "/Users/mnobelsh/Desktop/Climato/Pods/Alamofire/Source/ParameterEncoding.swift": [1545553018, 0]
+  "/Users/mnobelsh/Desktop/Climato/Pods/Alamofire/Source/Request.swift": [1545553018, 0]
+  "/Users/mnobelsh/Desktop/Climato/Pods/Alamofire/Source/Response.swift": [1545553018, 0]
+  "/Users/mnobelsh/Desktop/Climato/Pods/Alamofire/Source/ResponseSerialization.swift": [1545553018, 0]
+  "/Users/mnobelsh/Desktop/Climato/Pods/Alamofire/Source/Result.swift": [1545553018, 0]
+  "/Users/mnobelsh/Desktop/Climato/Pods/Alamofire/Source/ServerTrustPolicy.swift": [1545553018, 0]
+  "/Users/mnobelsh/Desktop/Climato/Pods/Alamofire/Source/SessionDelegate.swift": [1545553018, 0]
+  "/Users/mnobelsh/Desktop/Climato/Pods/Alamofire/Source/SessionManager.swift": [1545553018, 0]
+  "/Users/mnobelsh/Desktop/Climato/Pods/Alamofire/Source/TaskDelegate.swift": [1545553018, 0]
+  "/Users/mnobelsh/Desktop/Climato/Pods/Alamofire/Source/Timeline.swift": [1545553018, 0]
+  "/Users/mnobelsh/Desktop/Climato/Pods/Alamofire/Source/Validation.swift": [1545553018, 0]

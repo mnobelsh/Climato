@@ -1,0 +1,6 @@
+framework module Pods_Climato {
+  umbrella header "Pods-Climato-umbrella.h"
+
+  export *
+  module * { export * }
+}
